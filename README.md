@@ -1,8 +1,4 @@
-Got it! Here's the updated README with a description of your project as a book library:
-
----
-
-# Vite + React Project
+# Book Library
 
 This project is a React application bootstrapped with Vite, designed to be a book library. It features a setup with ESLint configurations for code quality and Tailwind CSS for styling.
 
