@@ -544,7 +544,7 @@ function BookCatalog() {
           </div>
         </div>
 
-        {books.slice(state - 5, state).map(el => {
+        {books.slice(state - 4, state).map(el => {
           [console.log(state)];
           return (
             <div className="bg-gray-100 p-6 rounded-lg shadow-lg w-96 hover:scale-105 transition-all duration-500">
