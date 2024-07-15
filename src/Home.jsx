@@ -16,7 +16,8 @@ const initState = {
       language: "Arabic",
       pages: 480,
       publisher: "Dar Al-Kutub",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/80/Muqaddimah_Ibn_Khaldun_12.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Muqaddimah_Ibn_Khaldun_12.jpg",
       isDeleted: false,
     },
     {
@@ -29,7 +30,8 @@ const initState = {
       language: "Arabic",
       pages: 600,
       publisher: "Medical Press",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/48/Kitab_al-Hawi_1.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Kitab_al-Hawi_1.jpg",
       isDeleted: false,
     },
     {
@@ -42,7 +44,8 @@ const initState = {
       language: "Multiple",
       pages: 1500,
       publisher: "Bible Society",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bible.malmesbury.arp.jpg/800px-Bible.malmesbury.arp.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bible.malmesbury.arp.jpg/800px-Bible.malmesbury.arp.jpg",
       isDeleted: false,
     },
     {
@@ -55,7 +58,8 @@ const initState = {
       language: "Arabic",
       pages: 1200,
       publisher: "Penguin classNameics",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arabian_Nights.jpg/800px-Arabian_Nights.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arabian_Nights.jpg/800px-Arabian_Nights.jpg",
       isDeleted: false,
     },
     {
@@ -68,7 +72,8 @@ const initState = {
       language: "Arabic",
       pages: 350,
       publisher: "Dar Al-Maaref",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Taha_Hussein.jpg/800px-Taha_Hussein.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Taha_Hussein.jpg/800px-Taha_Hussein.jpg",
       isDeleted: false,
     },
     {
@@ -81,7 +86,8 @@ const initState = {
       language: "Arabic",
       pages: 512,
       publisher: "Princeton University Press",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/48/Ibn_Khaldun_Muqaddimah.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Ibn_Khaldun_Muqaddimah.jpg",
       isDeleted: false,
     },
     {
@@ -94,7 +100,8 @@ const initState = {
       language: "Arabic",
       pages: 850,
       publisher: "Kazi Publications",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/77/Avicenna_Canon.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Avicenna_Canon.jpg",
       isDeleted: false,
     },
     {
@@ -107,7 +114,8 @@ const initState = {
       language: "Arabic",
       pages: 604,
       publisher: "Oxford University Press",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Quran_-_Tashkent_-_Uthman_Ibn_Affan_Mashaf_-_Katta_Langar.jpg/800px-Quran_-_Tashkent_-_Uthman_Ibn_Affan_Mashaf_-_Katta_Langar.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Quran_-_Tashkent_-_Uthman_Ibn_Affan_Mashaf_-_Katta_Langar.jpg/800px-Quran_-_Tashkent_-_Uthman_Ibn_Affan_Mashaf_-_Katta_Langar.jpg",
       isDeleted: false,
     },
     {
@@ -120,7 +128,8 @@ const initState = {
       language: "Arabic",
       pages: 400,
       publisher: "W.W. Norton & Company",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arabian_Nights_illustration.jpg/800px-Arabian_Nights_illustration.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arabian_Nights_illustration.jpg/800px-Arabian_Nights_illustration.jpg",
       isDeleted: false,
     },
     {
@@ -133,7 +142,8 @@ const initState = {
       language: "Arabic",
       pages: 396,
       publisher: "Arabic Scientific Publishers",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/en/f/fd/The_Bamboo_Stalk.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/en/f/fd/The_Bamboo_Stalk.jpg",
       isDeleted: false,
     },
     // New 15 books
@@ -147,7 +157,8 @@ const initState = {
       language: "English",
       pages: 432,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Title_page_of_Pride_and_Prejudice%2C_the_first_edition%2C_1813.jpg/800px-Title_page_of_Pride_and_Prejudice%2C_the_first_edition%2C_1813.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Title_page_of_Pride_and_Prejudice%2C_the_first_edition%2C_1813.jpg/800px-Title_page_of_Pride_and_Prejudice%2C_the_first_edition%2C_1813.jpg",
       isDeleted: false,
     },
     {
@@ -160,7 +171,8 @@ const initState = {
       language: "English",
       pages: 720,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Moby-Dick_FE_title_page.jpg/800px-Moby-Dick_FE_title_page.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Moby-Dick_FE_title_page.jpg/800px-Moby-Dick_FE_title_page.jpg",
       isDeleted: false,
     },
     {
@@ -173,7 +185,8 @@ const initState = {
       language: "English",
       pages: 328,
       publisher: "Signet Classics",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
       isDeleted: false,
     },
     {
@@ -186,7 +199,8 @@ const initState = {
       language: "English",
       pages: 324,
       publisher: "J.B. Lippincott & Co.",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/To_Kill_a_Mockingbird.JPG/800px-To_Kill_a_Mockingbird.JPG",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/To_Kill_a_Mockingbird.JPG/800px-To_Kill_a_Mockingbird.JPG",
       isDeleted: false,
     },
     {
@@ -199,7 +213,8 @@ const initState = {
       language: "English",
       pages: 180,
       publisher: "Scribner",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Great_Gatsby_%281st_ed._cover%29.jpg/800px-The_Great_Gatsby_%281st_ed._cover%29.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Great_Gatsby_%281st_ed._cover%29.jpg/800px-The_Great_Gatsby_%281st_ed._cover%29.jpg",
       isDeleted: false,
     },
     {
@@ -212,7 +227,8 @@ const initState = {
       language: "Russian",
       pages: 1296,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/War_and_Peace%2C_First_Edition%2C_1869.jpg/800px-War_and_Peace%2C_First_Edition%2C_1869.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/War_and_Peace%2C_First_Edition%2C_1869.jpg/800px-War_and_Peace%2C_First_Edition%2C_1869.jpg",
       isDeleted: false,
     },
     {
@@ -225,7 +241,8 @@ const initState = {
       language: "English",
       pages: 277,
       publisher: "Little, Brown and Company",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
       isDeleted: false,
     },
     {
@@ -238,7 +255,8 @@ const initState = {
       language: "Spanish",
       pages: 417,
       publisher: "Harper Perennial",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/en/1/1c/Cien_a%C3%B1os_de_soledad_%28book%29.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/en/1/1c/Cien_a%C3%B1os_de_soledad_%28book%29.jpg",
       isDeleted: false,
     },
     {
@@ -251,7 +269,8 @@ const initState = {
       language: "English",
       pages: 311,
       publisher: "Harper Perennial",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
       isDeleted: false,
     },
     {
@@ -264,7 +283,8 @@ const initState = {
       language: "Russian",
       pages: 671,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Crimeandpunishmentcover.png/800px-Crimeandpunishmentcover.png",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Crimeandpunishmentcover.png/800px-Crimeandpunishmentcover.png",
       isDeleted: false,
     },
     {
@@ -277,7 +297,8 @@ const initState = {
       language: "English",
       pages: 416,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wuthering_Heights_1847.jpg/800px-Wuthering_Heights_1847.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wuthering_Heights_1847.jpg/800px-Wuthering_Heights_1847.jpg",
       isDeleted: false,
     },
     {
@@ -290,7 +311,8 @@ const initState = {
       language: "Greek",
       pages: 541,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Odysseus_and_Polyphemus.jpg/800px-Odysseus_and_Polyphemus.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Odysseus_and_Polyphemus.jpg/800px-Odysseus_and_Polyphemus.jpg",
       isDeleted: false,
     },
     {
@@ -303,7 +325,8 @@ const initState = {
       language: "Italian",
       pages: 798,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dante_Divine_Comedy.jpg/800px-Dante_Divine_Comedy.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dante_Divine_Comedy.jpg/800px-Dante_Divine_Comedy.jpg",
       isDeleted: false,
     },
     {
@@ -316,7 +339,8 @@ const initState = {
       language: "English",
       pages: 505,
       publisher: "Penguin Books",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Greatexpectations_vol1.jpg/800px-Greatexpectations_vol1.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Greatexpectations_vol1.jpg/800px-Greatexpectations_vol1.jpg",
       isDeleted: false,
     },
     {
@@ -329,27 +353,27 @@ const initState = {
       language: "Russian",
       pages: 796,
       publisher: "Farrar, Straus and Giroux",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Brothers_Karamazov.jpg/800px-The_Brothers_Karamazov.jpg",
+      imageUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Brothers_Karamazov.jpg/800px-The_Brothers_Karamazov.jpg",
       isDeleted: false,
     },
   ],
 };
 
-
-
 // async function postData() {
-//   // Define the custom ID
-//   const customId = 'Data';
-  
 //   try {
 //     // Use the custom ID in the URL
-//     const response = await axios.put(`https://booklibrary-a5b1e-default-rtdb.firebaseio.com/books.json`, initState.books);
-//     console.log('Data posted successfully:', response.data);
+//     const response = await axios.put(
+//       `https://book-library-74916-default-rtdb.firebaseio.com/books.json`,
+//       initState.books
+//     );
+//     console.log("Data posted successfully:", response.data);
 //   } catch (error) {
-//     console.error('Error posting data:', error);
+//     console.error("Error posting data:", error);
 //   }
 // }
 // postData();
+
 function Home() {
   return (
     <>
